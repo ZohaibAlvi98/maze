@@ -1,0 +1,29 @@
+#goal {
+	display: none;
+
+    }
+.special {
+	background: #5F9EA0;
+}
+
+
+#canvas {
+
+	background: black;
+	 margin: auto;
+	 margin-top: 30px;
+	 display: block;
+    }
+h3 {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+    }
+#header {
+    	background-color: #66CCFF;
+    	text-align: center;
+    	padding: 10px;
+    	color: white;
+    	
+    }
